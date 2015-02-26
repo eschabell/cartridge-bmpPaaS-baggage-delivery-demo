@@ -83,4 +83,4 @@ See the tagged releases for the following versions of the product:
 
 - v1.0 - bpmPaaS on OpenShift cartridge, JBoss BPM Suite 6.0.2 and JBoss BPM Baggage Delivery demo installed.
 
-
+![Digital Sign Annoucement](https://github.com/jbossdemocentral/bpms-baggage-delivery-demo/blob/master/docs/demo-images/cloud-sign.jpg?raw=true)
