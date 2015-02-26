@@ -135,6 +135,7 @@ mvn clean package
 mv -v target/*.war ${OPENSHIFT_BPMS_DIR}standalone/deployments/
 
 # Project refernces.
+cd ..
 unzip TravelOptions.zip
 rm *.zip
 cd TravelOptions
