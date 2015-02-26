@@ -51,6 +51,13 @@ If not in US, county code is looked up in spreadsheet decision table and sets sh
 Finally, DSL is used to apply a promotion of free shipping and surcharge if passenger is of status Gold. 
 You are then shown the route the process took and the variables to confirm shipping and surcharges are correct.
 
+Note: this is a fully automated Straight Through Process (STP), so to view outuput of logs in the Cloud you need
+to use the following OpenShift CLI command from a console:
+
+    ```
+    $ rhc tail baggagedelivery
+    ```
+
 
 Important Note
 --------------
